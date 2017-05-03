@@ -1,0 +1,12 @@
+c:\users\admin\documents\visual studio 2015\Projects\MVC_BlogProject\Project_Entity\bin\Debug\Project_Entity.dll.config
+c:\users\admin\documents\visual studio 2015\Projects\MVC_BlogProject\Project_Entity\bin\Debug\Project_Entity.dll
+c:\users\admin\documents\visual studio 2015\Projects\MVC_BlogProject\Project_Entity\bin\Debug\Project_Entity.pdb
+c:\users\admin\documents\visual studio 2015\Projects\MVC_BlogProject\Project_Entity\obj\Debug\Project_Entity.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\MVC_BlogProject\Project_Entity\obj\Debug\Project_Entity.dll
+c:\users\admin\documents\visual studio 2015\Projects\MVC_BlogProject\Project_Entity\obj\Debug\Project_Entity.pdb
+C:\Users\Onur\Documents\MVC\MVC_BlogProject\Project_Entity\bin\Debug\Project_Entity.dll.config
+C:\Users\Onur\Documents\MVC\MVC_BlogProject\Project_Entity\bin\Debug\Project_Entity.dll
+C:\Users\Onur\Documents\MVC\MVC_BlogProject\Project_Entity\bin\Debug\Project_Entity.pdb
+C:\Users\Onur\Documents\MVC\MVC_BlogProject\Project_Entity\obj\Debug\Project_Entity.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Documents\MVC\MVC_BlogProject\Project_Entity\obj\Debug\Project_Entity.dll
+C:\Users\Onur\Documents\MVC\MVC_BlogProject\Project_Entity\obj\Debug\Project_Entity.pdb
